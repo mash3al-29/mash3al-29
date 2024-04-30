@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mash3al-29/mash3al-29](https://github.com/mash3al-29/mash3al-29)
 
-- 💬 Ask me about **Flutter, Android Native development, Dart, Java and Programming.**
+- 💬 Ask me about **Flutter, Android Native development, Dart, Java, and Programming.**
 
 - 📫 How to reach me **abdelrahmanmashaal@gmail.com**
 
