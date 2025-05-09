@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mash3al-29&label=Profile%20views&color=0e75b6&style=flat" alt="mash3al-29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mash3al-29" alt="mash3al-29" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mash3al-29/mash3al-29)
 
 - 📫 How to reach me **abdelrahmanmashaal@gmail.com**
