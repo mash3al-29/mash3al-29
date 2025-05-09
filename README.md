@@ -7,22 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mash3al-29" alt="mash3al-29" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Web Development with node, DOM, Node.js and Laravel.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mash3al-29/mash3al-29](https://github.com/mash3al-29/mash3al-29)
-
-- 💬 Ask me about **Flutter, Android Native development, Dart, Java, and Programming.**
 
 - 📫 How to reach me **abdelrahmanmashaal@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1wGzod-R_hRLfqjMW3VCnsWLIMrlki-Ug/view?usp=sharing](https://drive.google.com/file/d/1_5XSSEh3d0DMmgNQ27HF2vEOGRoDU78v/view?usp=sharing)]([https://drive.google.com/file/d/1wGzod-R_hRLfqjMW3VCnsWLIMrlki-Ug/view?usp=sharing](https://drive.google.com/file/d/1_5XSSEh3d0DMmgNQ27HF2vEOGRoDU78v/view?usp=sharing))
-
-- ⚡ Fun fact **I love to help people!**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_5XSSEh3d0DMmgNQ27HF2vEOGRoDU78v/view](https://drive.google.com/file/d/1_5XSSEh3d0DMmgNQ27HF2vEOGRoDU78v/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman-mashaal-44434b26b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-mashaal-44434b26b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14979685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14979685" height="30" width="40" /></a>
 <a href="https://fb.com/abdelrahman.mashal.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrahman.mashal.58" height="30" width="40" /></a>
 <a href="https://instagram.com/abdelrahman_mash3al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelrahman_mash3al" height="30" width="40" /></a>
 </p>
