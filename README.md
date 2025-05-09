@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mash3al-29" alt="mash3al-29" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mash3al-29/mash3al-29](https://github.com/mash3al-29/mash3al-29)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mash3al-29/mash3al-29)
 
 - 📫 How to reach me **abdelrahmanmashaal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_5XSSEh3d0DMmgNQ27HF2vEOGRoDU78v/view](https://drive.google.com/file/d/1_5XSSEh3d0DMmgNQ27HF2vEOGRoDU78v/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vT7k5MrV8QBZjPyyYTVqZA0kyPXawbQu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
